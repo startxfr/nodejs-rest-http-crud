@@ -1,8 +1,8 @@
 {
   "name": "nodejs-rest-http-crud",
-  "version": "4.0.0",
+  "version": "3.2.7",
   "description": "",
-  "author": "Red Hat, Inc.",
+  "author": "STARTX",
   "license": "Apache-2.0",
   "scripts": {
     "pretest": "eslint --ignore-path .gitignore .",
@@ -28,12 +28,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nodeshift-starters/nodejs-rest-http-crud.git"
+    "url": "git+https://github.com/startxfr/nodejs-rest-http-crud.git"
   },
   "bugs": {
-    "url": "https://github.com/nodeshift-starters/nodejs-rest-http-crud/issues"
+    "url": "https://github.com/startxfr/nodejs-rest-http-crud/issues"
   },
-  "homepage": "https://github.com/nodeshift-starters/nodejs-rest-http-crud#readme",
+  "homepage": "https://github.com/startxfr/nodejs-rest-http-crud#readme",
   "devDependencies": {
     "eslint": "^7.32.0",
     "eslint-config-semistandard": "^16.0.0",

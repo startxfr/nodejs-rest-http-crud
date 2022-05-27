@@ -1,9 +1,10 @@
 
-# Startx fruitapp release v3.2.6
+# Startx fruitapp release v3.2.7
 
-This is a minor release used for demo purposes
+Changes to the index.html display mode
 
 ## Content
 
-- minor release version change
-- example of code change
+- Move to a color background change during demo
+- Move to angular var for version and environment information
+- Change html template to use version and env properties
