@@ -1,5 +1,5 @@
 
-# Startx fruitapp release v3.2.5
+# Startx fruitapp release v3.2.6
 
 This is a minor release used for demo purposes
 
