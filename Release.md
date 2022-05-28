@@ -1,9 +1,8 @@
 
-# Startx fruitapp release v3.2.10
+# Startx fruitapp release v3.2.11
 
 Change color for demo purpose
 
 ## Content
 
-- Change to the darkmagenta color
-- update the release number displayed in the homepage
+- Change to the darkcyan color
