@@ -1,5 +1,5 @@
 
-# Startx fruitapp release v3.2.12
+# Startx fruitapp release v3.2.14
 
 Change color for demo purpose
 
